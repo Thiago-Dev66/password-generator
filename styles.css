@@ -113,3 +113,10 @@ button {
 .footer > small {
     margin: 0; 
 }
+
+@media screen and (max-width: 768px) {
+    .input__container {
+        width: 90%;
+    }
+
+}
